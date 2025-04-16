@@ -41,6 +41,7 @@
 | [0005-longest-palindromic-substring](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0416-partition-equal-subset-sum) |
 ## Sliding Window
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
