@@ -101,6 +101,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0231-power-of-two) |
 | [0357-count-numbers-with-unique-digits](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0357-count-numbers-with-unique-digits) |
 ## Bit Manipulation
