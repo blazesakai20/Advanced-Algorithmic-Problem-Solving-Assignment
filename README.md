@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0078-subsets) |
@@ -80,6 +81,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0078-subsets) |
 | [0357-count-numbers-with-unique-digits](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0357-count-numbers-with-unique-digits) |
