@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0169-majority-element) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0078-subsets) |
 | [0357-count-numbers-with-unique-digits](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0357-count-numbers-with-unique-digits) |
 ## Sorting
 |  |
@@ -112,6 +114,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0338-counting-bits) |
 ## Recursion
