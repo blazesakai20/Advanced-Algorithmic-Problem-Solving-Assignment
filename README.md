@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0046-permutations) |
 | [0303-range-sum-query-immutable](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0303-range-sum-query-immutable) |
@@ -40,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
