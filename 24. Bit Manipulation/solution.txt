@@ -1,0 +1,18 @@
+Bit Manipulation is a technique in algorithm design that involves direct operations on bits — the binary representation of 
+integers (0s and 1s). Instead of using high-level arithmetic or loops, you use bitwise operators to perform low-level, fast,
+and memory-efficient operations.
+
+Operator | Symbol | Description | Example (a = 5, b = 3)
+AND | & | Bitwise AND | 5 & 3 → 101 & 011 = 001 = 1
+OR | | | Bitwise OR | 5 | 3 → 101 | 011 = 111 = 7
+XOR | ^ | Bitwise XOR (exclusive OR) | 5 ^ 3 → 101 ^ 011 = 110 = 6
+NOT | ~ | Bitwise NOT (inverts bits) | ~5 → ~101 = ...11111010 (two’s complement)
+Left Shift | << | Shifts bits to the left (×2ⁿ) | 5 << 1 → 101 becomes 1010 = 10
+Right Shift | >> | Shifts bits to the right (÷2ⁿ) | 5 >> 1 → 101 becomes 10 = 2
+
+Advantages of Bit Manipulation
+Speed: Bit operations are extremely fast (often a single CPU instruction).
+
+Space Efficiency: Useful for space-optimized data structures like bitsets or flags.
+
+Elegant Tricks: Enables powerful techniques for solving algorithmic problems.

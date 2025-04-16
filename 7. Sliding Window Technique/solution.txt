@@ -1,0 +1,23 @@
+What is the Sliding Window Technique?
+It involves maintaining a "window" (a subset) that slides over the input data. Instead of checking all possible subarrays or substrings (which can be inefficient), you move the window intelligently to reduce unnecessary computations.
+
+There are two main types:
+
+Fixed-size window: The window size is constant.
+
+Variable-size window: The window size can expand and shrink based on conditions.
+
+Example Use in String Problems
+
+Find the longest substring without repeating characters
+Brute force approach: Try all substrings – O(n²)
+
+Sliding window approach:
+
+Use two pointers (left and right) to define the window.
+
+Expand the window by moving right.
+
+If a duplicate is found, shrink the window from the left.
+
+Keep track of the maximum length found.
