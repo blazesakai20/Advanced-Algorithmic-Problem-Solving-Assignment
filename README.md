@@ -14,6 +14,7 @@
 | [0229-majority-element-ii](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0724-find-pivot-index) |
 ## Binary Search
@@ -54,6 +55,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -89,10 +91,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
