@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0303-range-sum-query-immutable](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -22,4 +23,5 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
