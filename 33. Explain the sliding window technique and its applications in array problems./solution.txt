@@ -1,0 +1,23 @@
+What is the Sliding Window Technique?
+The sliding window technique is a method for solving problems that involve contiguous subarrays within a larger array. 
+Instead of recalculating the result for every possible subarray (which can be slow), you "slide" a window across the array 
+and update the result efficiently.
+
+ How It Works
+Maintain a window using two pointers (typically start and end).
+As you move the end pointer to the right, the window expands.
+Move the start pointer to the right when the window needs to shrink or adjust.
+You update a result as the window slides, using only the new values that enter or leave the window.
+
+Applications in Array Problems
+1. Fixed-Size Window Problems
+Problem: Find the maximum sum of any subarray of size k.
+
+def max_subarray_sum(arr, k):
+    max_sum = curr_sum = sum(arr[:k])
+    for i in range(k, len(arr)):
+        curr_sum += arr[i] - arr[i - k]
+        max_sum = max(max_sum, curr_sum)
+    return max_sum
+Time Complexity: O(n) — very efficient compared to the O(n·k) brute-force approach.
+

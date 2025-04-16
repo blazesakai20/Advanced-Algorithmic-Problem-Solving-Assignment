@@ -1,0 +1,38 @@
+.)Subsets
+A subset is any selection of elements from a set, where order doesn't matter.
+Can be of any size, including the empty set and the full set.
+Each element can be included or excluded (2 choices per element).
+
+Example:
+Original set: {1, 2, 3}
+All subsets:
+[], [1], [2], [3], 
+[1, 2], [1, 3], [2, 3], 
+[1, 2, 3]
+Total subsets of a set with n elements: 2^n
+
+.) Permutations
+A permutation is an ordered arrangement of elements.
+The position of elements matters.
+Often used when arranging, sequencing, or shuffling items.
+
+Example:
+Original set: {1, 2, 3}
+All permutations:
+[1, 2, 3], [1, 3, 2], 
+[2, 1, 3], [2, 3, 1], 
+[3, 1, 2], [3, 2, 1]
+Total permutations of n elements: n!
+
+Subsets:
+Unordered
+No duplicates
+Example of [1, 2]: [], [1], [2], [1, 2]
+
+Permutations:
+Ordered arrangements
+Example of [1, 2]: [1, 2], [2, 1]
+
+Time Complexity:
+Subsets: O(2ⁿ)
+Permutations: O(n!)
