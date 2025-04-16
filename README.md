@@ -29,6 +29,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0005-longest-palindromic-substring) |
 | [0416-partition-equal-subset-sum](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0416-partition-equal-subset-sum) |
 ## Sliding Window
 |  |
@@ -43,4 +44,9 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0005-longest-palindromic-substring) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
