@@ -8,21 +8,16 @@
 
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        ListNode temp = head;
-        if (temp == null) {
-            return false;
-        }
-        HashSet<ListNode> set = new HashSet<>();
-        while (!set.contains(temp)) {
-            set.add(temp);
-            temp = temp.next;
-            if (temp == null) {
-                return false;
-            }
-        }
-        if (temp.next != null && temp.next.next != null && set.contains(temp.next) && set.contains(temp.next.next)) {
-            return true;
-        }
-        return false;
+    Set<ListNode> set = new HashSet<>();
+    ListNode temp=head;
+    while(temp!=null){
+        if(set.contains(temp)) return true;
+        
+        set.add(temp);
+        temp=temp.next;
     }
+    
+    return false;
+    
+}
 }
