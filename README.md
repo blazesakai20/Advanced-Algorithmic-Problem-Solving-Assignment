@@ -70,6 +70,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0038-count-and-say) |
 ## Two Pointers
 |  |
 | ------- |
