@@ -30,6 +30,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0191-number-of-1-bits) |
 ## Design
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0338-counting-bits) |
 ## Recursion
