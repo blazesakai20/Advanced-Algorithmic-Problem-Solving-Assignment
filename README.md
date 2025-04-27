@@ -21,6 +21,7 @@
 | [0496-next-greater-element-i](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/2102-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/blazesakai20/Advanced-Algorithmic-Problem-Solving-Assignment/tree/master/2102-find-the-middle-index-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
