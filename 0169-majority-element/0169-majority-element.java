@@ -1,12 +1,14 @@
-class Solution {
+import java.util.HashMap;
+public class Solution {
     public int majorityElement(int[] nums) {
-        int candidate = 0, count = 0;
+        HashMap<Integer, Integer> map = new HashMap<>();
+        int n = nums.length;
         for (int num : nums) {
-            if (count == 0) {
-                candidate = num;
+            map.put(num, map.getOrDefault(num, 0) + 1);
+            if (map.get(num) > n / 2) {
+                return num;
             }
-            count += (num == candidate) ? 1 : -1;
         }
-        return candidate;
+        return -1;  
     }
 }
